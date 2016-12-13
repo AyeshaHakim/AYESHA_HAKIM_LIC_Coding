@@ -1,0 +1,5 @@
+/Users/cer/Documents/Csharp_projects/AYESHA_HAKIM_LIC_Coding/AYESHA_HAKIM_LIC_Coding/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/cer/Documents/Csharp_projects/AYESHA_HAKIM_LIC_Coding/AYESHA_HAKIM_LIC_Coding/bin/Debug/AYESHA_HAKIM_LIC_Coding.exe.mdb
+/Users/cer/Documents/Csharp_projects/AYESHA_HAKIM_LIC_Coding/AYESHA_HAKIM_LIC_Coding/bin/Debug/AYESHA_HAKIM_LIC_Coding.exe
+/Users/cer/Documents/Csharp_projects/AYESHA_HAKIM_LIC_Coding/AYESHA_HAKIM_LIC_Coding/obj/x86/Debug/AYESHA_HAKIM_LIC_Coding.exe
+/Users/cer/Documents/Csharp_projects/AYESHA_HAKIM_LIC_Coding/AYESHA_HAKIM_LIC_Coding/obj/x86/Debug/AYESHA_HAKIM_LIC_Coding.exe.mdb
