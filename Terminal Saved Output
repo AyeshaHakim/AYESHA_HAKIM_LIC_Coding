@@ -1,0 +1,119 @@
+
+*** Enter a String ***
+
+Instructions:
+There should be no whitespace in the string
+All characters in the string must be lower case
+The string will only contain alpha characters a-z 
+
+ABC
+Please enter a valid string 
+
+abc
+String is neither a Palindrome nor an Anagram of a Palindrome 
+
+Do you want to continue? Press 'y' for YES and 'n' for NO
+y
+*** Enter a String ***
+
+Instructions:
+There should be no whitespace in the string
+All characters in the string must be lower case
+The string will only contain alpha characters a-z 
+
+ 
+Please enter a valid string 
+
+***
+Please enter a valid string 
+
+123
+Please enter a valid string 
+
+anna
+String is a Palindrome 
+
+String is an Anagram of a Palindrome 
+
+Do you want to continue? Press 'y' for YES and 'n' for NO
+y
+*** Enter a String ***
+
+Instructions:
+There should be no whitespace in the string
+All characters in the string must be lower case
+The string will only contain alpha characters a-z 
+
+aaaaaaaa
+String is a Palindrome 
+
+String is an Anagram of a Palindrome 
+
+Do you want to continue? Press 'y' for YES and 'n' for NO
+y
+*** Enter a String ***
+
+Instructions:
+There should be no whitespace in the string
+All characters in the string must be lower case
+The string will only contain alpha characters a-z 
+
+
+Please enter a valid string 
+
+aaaaaaaab
+String is an Anagram of a Palindrome 
+
+Do you want to continue? Press 'y' for YES and 'n' for NO
+y
+*** Enter a String ***
+
+Instructions:
+There should be no whitespace in the string
+All characters in the string must be lower case
+The string will only contain alpha characters a-z 
+
+caaaaaaaab
+String is neither a Palindrome nor an Anagram of a Palindrome 
+
+Do you want to continue? Press 'y' for YES and 'n' for NO
+y
+*** Enter a String ***
+
+Instructions:
+There should be no whitespace in the string
+All characters in the string must be lower case
+The string will only contain alpha characters a-z 
+
+donotbobtonod
+String is a Palindrome 
+
+String is an Anagram of a Palindrome 
+
+Do you want to continue? Press 'y' for YES and 'n' for NO
+y
+*** Enter a String ***
+
+Instructions:
+There should be no whitespace in the string
+All characters in the string must be lower case
+The string will only contain alpha characters a-z 
+
+owefhijpfwai
+String is neither a Palindrome nor an Anagram of a Palindrome 
+
+Do you want to continue? Press 'y' for YES and 'n' for NO
+y
+*** Enter a String ***
+
+Instructions:
+There should be no whitespace in the string
+All characters in the string must be lower case
+The string will only contain alpha characters a-z 
+
+igdedgide
+String is an Anagram of a Palindrome 
+
+Do you want to continue? Press 'y' for YES and 'n' for NO
+n
+Press any key to continue...
