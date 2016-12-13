@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{A1D57435-79FF-4635-8F07-D13444E8DDA5}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="AYESHA_HAKIM_LIC_Coding/Program.cs">
     <Files>
-      <File FileName="AYESHA_HAKIM_LIC_Coding/Program.cs" Line="1" Column="1" />
+      <File FileName="AYESHA_HAKIM_LIC_Coding/Program.cs" Line="33" Column="48" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.AYESHA__HAKIM__LIC__Coding PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
