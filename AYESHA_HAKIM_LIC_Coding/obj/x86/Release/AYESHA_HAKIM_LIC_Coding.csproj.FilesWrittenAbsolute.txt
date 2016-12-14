@@ -1,3 +1,6 @@
 /Users/cer/Documents/Csharp_projects/AYESHA_HAKIM_LIC_Coding/AYESHA_HAKIM_LIC_Coding/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
 /Users/cer/Documents/Csharp_projects/AYESHA_HAKIM_LIC_Coding/AYESHA_HAKIM_LIC_Coding/bin/Release/AYESHA_HAKIM_LIC_Coding.exe
 /Users/cer/Documents/Csharp_projects/AYESHA_HAKIM_LIC_Coding/AYESHA_HAKIM_LIC_Coding/obj/x86/Release/AYESHA_HAKIM_LIC_Coding.exe
+/Users/cer/Downloads/AYESHA_HAKIM_LIC_Coding-master 2/AYESHA_HAKIM_LIC_Coding/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/cer/Downloads/AYESHA_HAKIM_LIC_Coding-master 2/AYESHA_HAKIM_LIC_Coding/bin/Release/AYESHA_HAKIM_LIC_Coding.exe
+/Users/cer/Downloads/AYESHA_HAKIM_LIC_Coding-master 2/AYESHA_HAKIM_LIC_Coding/obj/x86/Release/AYESHA_HAKIM_LIC_Coding.exe
