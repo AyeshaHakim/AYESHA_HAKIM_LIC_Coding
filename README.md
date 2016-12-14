@@ -6,9 +6,11 @@ Program.cs contains class 'MainClass' and PalindromeClass contains class 'Palind
 Main Class is the entry point that invites user to enter a valid string, gives instructions, 
 instantiate PalindromeClass and calls its three function.
 
-is_invalidString: checks whether the entered string is valid based on the given assumptions
-is_palindrome: checks whether the enetered string is a palindrome
-is_anagram: checks whether the enetered string is an anagram of a palindrome
+is_invalidString: checks whether the entered string is valid based on the given assumptions.
+
+is_palindrome: checks whether the enetered string is a palindrome.
+
+is_anagram: checks whether the enetered string is an anagram of a palindrome.
 
 The function also checks is the string is neither a palindrome, not an anagram and display the message.
 
