@@ -1,15 +1,18 @@
 # AYESHA_HAKIM_LIC_Coding
-The code contains two classes: MainClass and palindrome
+The program contains two class files: Program.cs and PalindromeClass.cs
+Program.cs contains class 'MainClass' and PalindromeClass contains class 'PalindromeClass'.
+
 Main Class is the entry point that invites user to enter a valid string, gives instructions, 
-instantiate palindrome class and calls three function:
+instantiate PalindromeClass and calls its three function.
 
 is_invalidString: checks whether the entered string is valid based on the given assumptions
 is_palindrome: checks whether the enetered string is a palindrome
-is_anagram: checks whether the eneteres string is an anagram of a palindrome
+is_anagram: checks whether the enetered string is an anagram of a palindrome
 
-The function also checks is the string is neither a palindrome, not an anagram and display the message
+The function also checks is the string is neither a palindrome, not an anagram and display the message.
+
 The functions are called under a loop continuously asking for input from user unless the key 'n' is pressed.
-The repo has the "Terminal Saves Output" in a text document that contains the test cases for the following scenerios:
+The repo has the "Terminal Saved Output" in a text document that contains the test cases for the following scenerios:
 
 We must enter a string
 Captial String is invalid
