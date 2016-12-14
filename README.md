@@ -1,5 +1,6 @@
 # AYESHA_HAKIM_LIC_Coding
-The program contains two class files: Program.cs and PalindromeClass.cs
+The program contains two class files: Program.cs and PalindromeClass.cs.
+
 Program.cs contains class 'MainClass' and PalindromeClass contains class 'PalindromeClass'.
 
 Main Class is the entry point that invites user to enter a valid string, gives instructions, 
